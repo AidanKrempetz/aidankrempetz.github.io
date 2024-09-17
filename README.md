@@ -1,7 +1,7 @@
 ### _Dream Make Discover_ 
 
 
-![aidan](https://github.com/user-attachments/assets/dacda96b-2010-4ea5-8a78-3077345ff464){:height="700px" width="400px"}
+![aidan](https://github.com/user-attachments/assets/dacda96b-2010-4ea5-8a78-3077345ff464){:height="400px" width="400px"}
 
 
 
