@@ -1,7 +1,7 @@
 ### _Dream Make Discover_ 
 
 
-![aidan](https://github.com/AidanKrempetz/aidankrempetz.github.io/assets/171449957/110e521f-813c-4193-bf35-b779ace13198)
+![20241e86-7faa-4313-920c-885ba066cb19](https://github.com/user-attachments/assets/dacda96b-2010-4ea5-8a78-3077345ff464)
 
 
 
