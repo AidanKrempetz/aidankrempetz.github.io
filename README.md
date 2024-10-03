@@ -1,3 +1,12 @@
+
+<header>
+  <a href="{{ site.url }}">
+    <img src="{{ '![DMD Logo](https://github.com/user-attachments/assets/9e9beb1c-535f-44ba-9fcc-3d34abc99e42)
+' | relative_url }}" alt="Site Logo" />
+  </a>
+</header>
+
+
 ### _Dream Make Discover_ 
 
 
